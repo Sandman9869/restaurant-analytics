@@ -1,0 +1,16 @@
+# Системные кэши Python и Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+venv/
+env/
+.env
+
+# Служебные файлы VS Code
+.vscode/
+
+# Конфиденциальные ключи и токены
+config.py
+secrets.json
